@@ -1,7 +1,7 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: 'PCRBXfZ_67P5oYoRXRQJaPLIktiT1cFLpKEbFvJnj-0',
+    id: 'PDU20269TIRQbNwn8gkRcWk4XteL3AvFUOsiYKHEl',
     title: '吕美女，早安!',
     desc: `
       **{{date.DATA}}**
