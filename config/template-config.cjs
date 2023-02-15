@@ -2,13 +2,14 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '亲爱的, 早上好',
+    title: '吕美女，早安!',
     desc: `
       **{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
       
       ---
+      每日课表：{{course_schedule.DATA}}
       
       城市：{{city.DATA}}
       
