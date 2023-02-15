@@ -8,35 +8,35 @@
 const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxc96808f990f3b9d3',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'aee384dfb0031524ad795e18266ee7f3',
+  APP_SECRET: '',
 
-  PROVINCE: '辽宁',
-  CITY: '鞍山',
+  PROVINCE: '',
+  CITY: '',
 
   USERS: [
     {
       // 想要发送的人的名字
-      name: '吕美女',
+      name: '',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'aee384dfb0031524ad795e18266ee7f3',
+      id: '',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'i5bpenEMiddKZhnkfBMYaEqsCdAERfNWqEC7sfcljKE',
+      useTemplateId: '',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '吕美女', year: '2002', date: '09-29',
+          type: '*生日', name: '', year: '', date: '',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '吕美女', year: '2002', date: '11-03',
+          type: '生日', name: '', year: '', date: '',
         }
 //         {
-//           type: '节日', name: '相识纪念日', year: '2020', date: '12-19',
+//           type: '节日', name: '', year: '', date: '',
 //         },
       ],
 //       // 我们在一起已经有xxxx天了的配置
