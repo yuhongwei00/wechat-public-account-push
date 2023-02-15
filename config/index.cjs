@@ -8,10 +8,10 @@
 const USER_CONFIG = {
   USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wxc96808f990f3b9d3',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: 'aee384dfb0031524ad795e18266ee7f3',
 
   PROVINCE: '',
   CITY: '',
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: 'xiaoyu',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'aee384dfb0031524ad795e18266ee7f3',
+      id: 'olnI-5sXTvH9S_rqPn_CiZd4mfW8',
     }
   ],
 
